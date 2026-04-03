@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 [under construction...]
+
+In the meantime you can contact me at camposargued (at) wisc (dot) edu
