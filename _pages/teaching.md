@@ -19,7 +19,6 @@ academic journey.
 <table style="border: none; width: 100%;"><tr style="border: none;">
 <td style="border: none; vertical-align: top;">
 
-**CounPsy 115: Academic Excellence Seminar**
 <strong>CounPsy 115: Academic Excellence Seminar</strong>
 Division for Teaching and Learning, University of Wisconsin–Madison
 <br>
@@ -43,7 +42,7 @@ assessments, and managed course materials through Canvas.
 <table style="border: none; width: 100%;"><tr style="border: none;">
 <td style="border: none; vertical-align: top;">
 
-**Hort 330: Wines and Vines of the World**
+</strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 *Spring 2025*
@@ -53,7 +52,7 @@ viticultural, oenological, and regional perspectives.
 
 </td>
 <td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
-<img src="/images/SA_wine_prod.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+<img src="/images/SA_wine_prod.JPEG" style="width: 250px; height: 150px; object-fit: cover; border-radius: 8px;">
 </td>
 </tr></table>
 
@@ -64,7 +63,7 @@ viticultural, oenological, and regional perspectives.
 <table style="border: none; width: 100%;"><tr style="border: none;">
 <td style="border: none; vertical-align: top;">
 
-**Hort 330: Wines and Vines of the World**
+</strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 *Spring 2023*
@@ -85,7 +84,7 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 <table style="border: none; width: 100%;"><tr style="border: none;">
 <td style="border: none; vertical-align: top;">
 
-**UW Tropical Horticulture — Study Abroad in Costa Rica**
+</strong>UW Tropical Horticulture — Study Abroad in Costa Rica</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 *2023 & 2024*
@@ -108,7 +107,7 @@ community partners.
 <table style="border: none; width: 100%;"><tr style="border: none;">
 <td style="border: none; vertical-align: top;">
 
-**Posse Program Mentor**
+</strong>Posse Program Mentor</strong>
 The Posse Foundation, University of Wisconsin–Madison
 <br>
 *Fall 2024–Spring 2026*
@@ -120,6 +119,6 @@ and supportive learning environment.
 
 </td>
 <td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
-<img src="/images/PosseLA22.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+<img src="/images/PosseLA22.JPEG" style="width: 180px; height: 200px; object-fit: cover; border-radius: 8px;">
 </td>
 </tr></table>
