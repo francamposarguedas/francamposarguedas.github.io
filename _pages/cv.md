@@ -1,12 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+*Last updated: May 2026*
 
-[under construction...]
+[Download CV (PDF)](/files/CV_Francisco_Campos-Arguedas_26.pdf)
