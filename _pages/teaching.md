@@ -47,7 +47,8 @@ assessments, and managed course materials through Canvas.
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 <em>Spring 2025</em>
-
+<br>
+<br>
 Delivered a guest lecture on South African wine production, integrating 
 viticultural, oenological, and regional perspectives.
 
@@ -68,7 +69,8 @@ viticultural, oenological, and regional perspectives.
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 <em>Spring 2023</em>
-
+<br>
+<br>
 Prepared quizzes and assessments, supported communication between students and 
 the course instructor, and coordinated logistics for weekly wine tasting sessions.
 
@@ -89,7 +91,8 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 <em>Winter 2023 & 2024</em>
-
+<br>
+<br>
 Assisted with daily program coordination and field-based activities. Co-led 
 evening reflection sessions incorporating active-learning and problem-based 
 approaches, and facilitated communication among students, program leaders, and 
@@ -112,7 +115,8 @@ community partners.
 The Posse Foundation, University of Wisconsin–Madison
 <br>
 <em>Fall 2024–Spring 2026</em>
-
+<br>
+<br>
 Provide individual and group mentorship to Posse Scholars, supporting them 
 through academic and personal challenges. Connect students with campus resources 
 and collaborate with Posse staff and university liaisons to promote an inclusive 
