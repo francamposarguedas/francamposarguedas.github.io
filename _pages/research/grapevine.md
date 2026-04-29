@@ -9,7 +9,7 @@ One of the collaborative projects during my Ph.D. examines cold hardiness dynami
 
 **Publication**
 
-**Campos-Arguedas, F.**\*, Kirchhof, E.\*, North, M.G., Londo, J.P., Bates, T., 
+**Campos-Arguedas, F.**, Kirchhof, E., North, M.G., Londo, J.P., Bates, T., 
 van Leeuwen, C., Destrac-Irvine, A., Bois, B., Kovaleski, A.P. (2026). Cold hardiness 
 dynamics predict budbreak and associated low-temperature threats in grapevine. 
 *New Phytologist.* [https://doi.org/10.1111/nph.71074](https://doi.org/10.1111/nph.71074)
