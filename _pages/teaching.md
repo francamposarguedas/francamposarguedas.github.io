@@ -16,7 +16,8 @@ academic journey.
 
 ## Instructor of Record
 
-<img src="/images/Posse_class.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
+<div style="overflow: hidden;">
+<img src="/images/Posse_class.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 
 **CounPsy 115: Academic Excellence Seminar**
 Division for Teaching and Learning, University of Wisconsin–Madison
@@ -27,12 +28,14 @@ Designed and delivered a seminar supporting student persistence and academic
 skill development among Posse Scholars. Planned and facilitated weekly classes 
 and active-learning activities, developed group projects and individual 
 assessments, and managed course materials through Canvas.
+</div>
 
 ---
 
 ## Guest Lecturer
 
-<img src="/images/SA_wine_prod.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
+<div style="overflow: hidden;">
+<img src="/images/SA_wine_prod.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -41,12 +44,14 @@ Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madiso
 
 Delivered a guest lecture on South African wine production, integrating 
 viticultural, oenological, and regional perspectives.
+</div>
 
 ---
 
 ## Teaching Assistant
 
-<img src="/images/Wine_class.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
+<div style="overflow: hidden;">
+<img src="/images/Wine_class.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -55,12 +60,14 @@ Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madiso
 
 Prepared quizzes and assessments, supported communication between students and 
 the course instructor, and coordinated logistics for weekly wine tasting sessions.
+</div>
 
 ---
 
 ## Study Abroad
 
-<img src="/images/Study_abroad.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
+<div style="overflow: hidden;">
+<img src="/images/Study_abroad.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 
 **UW Tropical Horticulture — Study Abroad in Costa Rica**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -71,12 +78,14 @@ Assisted with daily program coordination and field-based activities. Co-led
 evening reflection sessions incorporating active-learning and problem-based 
 approaches, and facilitated communication among students, program leaders, and 
 community partners.
+</div>
 
 ---
 
 ## Mentorship
 
-<img src="/images/PosseLA22.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
+<div style="overflow: hidden;">
+<img src="/images/PosseLA22.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 
 **Posse Program Mentor**
 The Posse Foundation, University of Wisconsin–Madison
@@ -87,4 +96,5 @@ Provide individual and group mentorship to Posse Scholars, supporting them
 through academic and personal challenges. Connect students with campus resources 
 and collaborate with Posse staff and university liaisons to promote an inclusive 
 and supportive learning environment.
+</div>
 
