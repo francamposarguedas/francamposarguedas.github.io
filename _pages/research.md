@@ -7,22 +7,33 @@ author_profile: true
 
 My research focuses on how woody plants respond to temperature, with a 
 particular interest in cold hardiness, dormancy, and the consequences of 
-climate warming for freeze risk.
+climate warming for freeze risk. I combine controlled-environment experiments, 
+field-based observations, and physiological modeling to understand how plants 
+prepare for, survive, and recover from cold temperatures.
 
-**Warming & Cold Hardiness in Boreal Ecosystems** *(Current research)*
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
 
-How does whole-ecosystem warming affect the cold hardiness and dormancy 
-of boreal trees? And does warming always reduce freeze risk?
+  <div style="text-align: center; width: 280px;">
+    <a href="/research/boreal/">
+      <img src="/images/Spruce.JPG" alt="Boreal Ecosystems" style="width: 280px; height: 200px; object-fit: cover; border-radius: 8px;">
+      <p style="margin-top: 8px; font-weight: bold;">Warming & Cold Hardiness in Boreal Ecosystems</p>
+    </a>
+  </div>
 
-[Read more →](/research/boreal/)
+  <div style="text-align: center; width: 280px;">
+    <a href="/research/grapevine/">
+      <img src="/images/Grapevine.png" alt="Grapevine" style="width: 280px; height: 200px; object-fit: cover; border-radius: 8px;">
+      <p style="margin-top: 8px; font-weight: bold;">Grapevine Cold Hardiness & Budbreak</p>
+    </a>
+  </div>
 
-**Grapevine Cold Hardiness and Budbreak**
+  <div style="text-align: center; width: 280px;">
+    <a href="/research/viticulture/">
+      <img src="/images/Viticulture.JPG" alt="Viticulture" style="width: 280px; height: 200px; object-fit: cover; border-radius: 8px;">
+      <p style="margin-top: 8px; font-weight: bold;">Viticulture & Berry Physiology</p>
+    </a>
+  </div>
 
-[Read more →](/research/grapevine/)
-
-
-Grapevine
-
-[Read more →](/research/grapevine/)
+</div>
 
 
