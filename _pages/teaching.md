@@ -22,7 +22,7 @@ academic journey.
 <strong>CounPsy 115: Academic Excellence Seminar</strong>
 Division for Teaching and Learning, University of Wisconsin–Madison
 <br>
-*Fall 2024, Spring 2025, Fall 2025, Spring 2026*
+</em>Fall 2024, Spring 2025, Fall 2025, Spring 2026</em>
 
 Designed and delivered a seminar supporting student persistence and academic 
 skill development among Posse Scholars. Planned and facilitated weekly classes 
@@ -45,7 +45,7 @@ assessments, and managed course materials through Canvas.
 </strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
-*Spring 2025*
+</em>Spring 2025</em>
 
 Delivered a guest lecture on South African wine production, integrating 
 viticultural, oenological, and regional perspectives.
@@ -66,7 +66,7 @@ viticultural, oenological, and regional perspectives.
 </strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
-*Spring 2023*
+</em>Spring 2023</em>
 
 Prepared quizzes and assessments, supported communication between students and 
 the course instructor, and coordinated logistics for weekly wine tasting sessions.
@@ -87,7 +87,7 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 </strong>UW Tropical Horticulture — Study Abroad in Costa Rica</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
-*2023 & 2024*
+</em>Winter 2023 & 2024</em>
 
 Assisted with daily program coordination and field-based activities. Co-led 
 evening reflection sessions incorporating active-learning and problem-based 
@@ -110,7 +110,7 @@ community partners.
 </strong>Posse Program Mentor</strong>
 The Posse Foundation, University of Wisconsin–Madison
 <br>
-*Fall 2024–Spring 2026*
+</em>Fall 2024–Spring 2026</em>
 
 Provide individual and group mentorship to Posse Scholars, supporting them 
 through academic and personal challenges. Connect students with campus resources 
