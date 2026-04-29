@@ -11,6 +11,8 @@ In this collaborative review, we synthesized freeze damage thresholds across row
 
 **Publication**
 
-Kirchhof, E.\*, Campos-Arguedas, F.\*, et al. (2025). Thresholds for spring freeze: 
-measuring risk to improve predictions in a warming world. *New Phytologist.* 
-[https://doi.org/10.1111/nph.70453](https://doi.org/10.1111/nph.70453)
+Kirchhof, E.\*, **Campos-Arguedas, F.**\*, Arias, N., Kovaleski, A.P. (2025). 
+Thresholds for spring freeze: measuring risk to improve predictions in a warming world. 
+*New Phytologist.* [https://doi.org/10.1111/nph.70453](https://doi.org/10.1111/nph.70453)
+
+\* Denotes equal contribution
