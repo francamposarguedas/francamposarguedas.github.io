@@ -47,7 +47,7 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 
 ---
 
-## Field Program
+## International Study Abroad
 
 **UW Tropical Horticulture — Study Abroad in Costa Rica**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
