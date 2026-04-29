@@ -16,8 +16,8 @@ academic journey.
 
 ## Instructor of Record
 
-<div style="overflow: hidden;">
-<img src="/images/Posse_class.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%;"><tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 **CounPsy 115: Academic Excellence Seminar**
 Division for Teaching and Learning, University of Wisconsin–Madison
@@ -28,14 +28,19 @@ Designed and delivered a seminar supporting student persistence and academic
 skill development among Posse Scholars. Planned and facilitated weekly classes 
 and active-learning activities, developed group projects and individual 
 assessments, and managed course materials through Canvas.
-</div>
+
+</td>
+<td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
+<img src="/images/Posse_class.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+</td>
+</tr></table>
 
 ---
 
 ## Guest Lecturer
 
-<div style="overflow: hidden;">
-<img src="/images/SA_wine_prod.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%;"><tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -44,14 +49,19 @@ Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madiso
 
 Delivered a guest lecture on South African wine production, integrating 
 viticultural, oenological, and regional perspectives.
-</div>
+
+</td>
+<td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
+<img src="/images/SA_wine_prod.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+</td>
+</tr></table>
 
 ---
 
 ## Teaching Assistant
 
-<div style="overflow: hidden;">
-<img src="/images/Wine_class.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%;"><tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -60,14 +70,19 @@ Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madiso
 
 Prepared quizzes and assessments, supported communication between students and 
 the course instructor, and coordinated logistics for weekly wine tasting sessions.
-</div>
+
+</td>
+<td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
+<img src="/images/Wine_class.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+</td>
+</tr></table>
 
 ---
 
 ## Study Abroad
 
-<div style="overflow: hidden;">
-<img src="/images/Study_abroad.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%;"><tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 **UW Tropical Horticulture — Study Abroad in Costa Rica**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -78,14 +93,19 @@ Assisted with daily program coordination and field-based activities. Co-led
 evening reflection sessions incorporating active-learning and problem-based 
 approaches, and facilitated communication among students, program leaders, and 
 community partners.
-</div>
+
+</td>
+<td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
+<img src="/images/Study_abroad.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+</td>
+</tr></table>
 
 ---
 
 ## Mentorship
 
-<div style="overflow: hidden;">
-<img src="/images/PosseLA22.JPEG" style="float: right; width: 250px; height: 200px; object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%;"><tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 **Posse Program Mentor**
 The Posse Foundation, University of Wisconsin–Madison
@@ -96,5 +116,9 @@ Provide individual and group mentorship to Posse Scholars, supporting them
 through academic and personal challenges. Connect students with campus resources 
 and collaborate with Posse staff and university liaisons to promote an inclusive 
 and supportive learning environment.
-</div>
 
+</td>
+<td style="border: none; width: 270px; vertical-align: top; padding-left: 20px;">
+<img src="/images/PosseLA22.JPEG" style="width: 250px; height: 200px; object-fit: cover; border-radius: 8px;">
+</td>
+</tr></table>
