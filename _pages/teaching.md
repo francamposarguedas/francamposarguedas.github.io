@@ -23,7 +23,8 @@ academic journey.
 Division for Teaching and Learning, University of Wisconsin–Madison
 <br>
 <em>Fall 2024, Spring 2025, Fall 2025, Spring 2026</em>
-
+<br>
+<br>
 Designed and delivered a seminar supporting student persistence and academic 
 skill development among Posse Scholars. Planned and facilitated weekly classes 
 and active-learning activities, developed group projects and individual 
