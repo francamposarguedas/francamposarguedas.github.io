@@ -17,7 +17,7 @@ academic journey.
 ## Instructor of Record
 
 <table style="border: none; width: 100%;"><tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top; font-size: 1em;">
 
 <strong>CounPsy 115: Academic Excellence Seminar</strong>
 Division for Teaching and Learning, University of Wisconsin–Madison
@@ -40,7 +40,7 @@ assessments, and managed course materials through Canvas.
 ## Guest Lecturer
 
 <table style="border: none; width: 100%;"><tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top; font-size: 1em;">
 
 <strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -61,7 +61,7 @@ viticultural, oenological, and regional perspectives.
 ## Teaching Assistant
 
 <table style="border: none; width: 100%;"><tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top; font-size: 1em;">
 
 <strong>Hort 330: Wines and Vines of the World</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -82,7 +82,7 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 ## Study Abroad
 
 <table style="border: none; width: 100%;"><tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top; font-size: 1em;">
 
 <strong>UW Tropical Horticulture — Study Abroad in Costa Rica</strong>
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
@@ -105,7 +105,7 @@ community partners.
 ## Mentorship
 
 <table style="border: none; width: 100%;"><tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top; font-size: 1em;">
 
 <strong>Posse Program Mentor</strong>
 The Posse Foundation, University of Wisconsin–Madison
