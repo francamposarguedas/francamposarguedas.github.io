@@ -16,6 +16,7 @@ academic journey.
 
 **CounPsy 115: Academic Excellence Seminar**
 Division for Teaching and Learning, University of Wisconsin–Madison
+
 *Fall 2024, Spring 2025, Fall 2025, Spring 2026*
 
 Designed and delivered a seminar supporting student persistence and academic 
@@ -29,6 +30,7 @@ assessments, and managed course materials through Canvas.
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
+
 *Spring 2025*
 
 Delivered a guest lecture on South African wine production, integrating 
@@ -40,6 +42,7 @@ viticultural, oenological, and regional perspectives.
 
 **Hort 330: Wines and Vines of the World**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
+
 *Spring 2023*
 
 Prepared quizzes and assessments, supported communication between students and 
@@ -51,6 +54,7 @@ the course instructor, and coordinated logistics for weekly wine tasting session
 
 **UW Tropical Horticulture — Study Abroad in Costa Rica**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
+
 *Winter 2023 & 2024*
 
 Assisted with daily program coordination and field-based activities. Co-led 
@@ -64,6 +68,7 @@ community partners.
 
 **Posse Program Mentor**
 The Posse Foundation, University of Wisconsin–Madison
+
 *Fall 2024– Spring 2026*
 
 Provide individual and group mentorship to Posse Scholars, supporting them 
