@@ -56,21 +56,13 @@ Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madiso
 Prepared quizzes and assessments, supported communication between students and 
 the course instructor, and coordinated logistics for weekly wine tasting sessions.
 
-**Biol 6013: Special Topic**
-Université Sainte-Anne, Nova Scotia, Canada
-<br>
-*Fall 2019*
-
-Trained and supervised students in laboratory techniques, material handling, and 
-extractions. Planned laboratory activities to support hands-on learning objectives.
-
 ---
 
-## Field Program
+## Study Abroad
 
 <img src="/images/Study_abroad.JPEG" align="right" width="250px" height="200px" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px; object-fit: cover;">
 
-**Tropical Horticultural Systems — International Field Study in Costa Rica**
+**UW Tropical Horticulture — Study Abroad in Costa Rica**
 Department of Plant and Agroecosystem Sciences, University of Wisconsin–Madison
 <br>
 *2023 & 2024*
@@ -89,7 +81,7 @@ community partners.
 **Posse Program Mentor**
 The Posse Foundation, University of Wisconsin–Madison
 <br>
-*2024–Present*
+*Fall 2024–Spring 2026*
 
 Provide individual and group mentorship to Posse Scholars, supporting them 
 through academic and personal challenges. Connect students with campus resources 
