@@ -11,10 +11,6 @@ Using on-the-row mini-greenhouses in an experimental vineyard in Nova Scotia, we
 
 **Publications**
 
-Campos-Arguedas, F., et al. (2022). Different temperature and UV patterns modulate 
-berry maturation and volatile compounds accumulation in *Vitis* sp. *Frontiers in 
-Plant Science.* [https://doi.org/10.3389/fpls.2022.862259](https://doi.org/10.3389/fpls.2022.862259)
+**Campos-Arguedas, F.**, Sarraihlé, G., Nicolle, P., Dorais, M., Brereton, N.J.B., Pitre, F.E., Pedneault, K. (2022). Different temperature and UV patterns modulate berry maturation and volatile compounds accumulation in *Vitis* sp. *Frontiers in Plant Science.* [https://doi.org/10.3389/fpls.2022.862259](https://doi.org/10.3389/fpls.2022.862259)
 
-Pedneault, K., et al. (2023). Different patterns of temperature impact phenolic 
-derivatives in ripening *Vitis* sp. berries. *Acta Horticulturae.* 
-[https://doi.org/10.17660/ActaHortic.2023.1370.9](https://doi.org/10.17660/ActaHortic.2023.1370.9)
+Pedneault, K., Pico Carbajo, J., Nicolle, P., Pathak, M., Wilson, N., **Campos-Arguedas, F.**, Sarraihlé, G., Dorais, M., Brereton, N.J.B., Castellarin, S., Pitre, F.E. (2023). Different patterns of temperature impact phenolic derivatives in ripening *Vitis* sp. berries. *Acta Horticulturae.* [https://doi.org/10.17660/ActaHortic.2023.1370.9](https://doi.org/10.17660/ActaHortic.2023.1370.9)
