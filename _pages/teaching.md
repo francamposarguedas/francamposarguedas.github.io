@@ -20,6 +20,7 @@ academic journey.
 <td style="border: none; vertical-align: top;">
 
 **CounPsy 115: Academic Excellence Seminar**
+<strong>CounPsy 115: Academic Excellence Seminar</strong>
 Division for Teaching and Learning, University of Wisconsin–Madison
 <br>
 *Fall 2024, Spring 2025, Fall 2025, Spring 2026*
