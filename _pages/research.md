@@ -28,6 +28,13 @@ prepare for, survive, and recover from cold temperatures.
   </div>
 
   <div style="text-align: center; width: 280px;">
+    <a href="/research/thresholds/">
+      <img src="/images/Conceptual_figure.jpg" alt="Grapevine" style="width: 280px; height: 200px; object-fit: cover; border-radius: 8px;">
+      <p style="margin-top: 8px; font-weight: bold;">Thresholds</p>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 280px;">
     <a href="/research/viticulture/">
       <img src="/images/Viticulture.JPG" alt="Viticulture" style="width: 280px; height: 200px; object-fit: cover; border-radius: 8px;">
       <p style="margin-top: 8px; font-weight: bold;">Viticulture & Berry Physiology</p>
