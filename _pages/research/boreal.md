@@ -11,4 +11,4 @@ One of the intersting findings of this work is that warming does not simply redu
 
 Check out our pre-print:
 
-Campos-Arguedas F, Kirchhof E, North MG, Pearson KJ, Guilliams MP, Hanson PJ, Kovaleski AP. 2026. Warming Reduces Cold Hardiness of Boreal Plants but Damage Risk Varies by Species and Season. https://doi.org/10.64898/2026.05.15.725179
+**Campos-Arguedas F**, Kirchhof E, North MG, Pearson KJ, Guilliams MP, Hanson PJ, Kovaleski AP. 2026. Warming Reduces Cold Hardiness of Boreal Plants but Damage Risk Varies by Species and Season. [https://doi.org/10.64898/2026.05.15.725179](https://doi.org/10.64898/2026.05.15.725179)
