@@ -5,9 +5,13 @@ permalink: /research/boreal/
 author_profile: true
 ---
 
-My Ph.D. dissertation is conducted in collaboration with the SPRUCE experiment (Spruce and Peatland Responses Under Changing Environments), a large-scale whole-ecosystem warming and elevated CO₂ project located in a boreal peatland in northern Minnesota. Working with overstory and understory woody species, I investigate how warming affect cold hardiness dynamics, dormancy progression, and the risk of freeze damage in a warmer world.
+My Ph.D. dissertation was conducted in collaboration with the SPRUCE experiment (Spruce and Peatland Responses Under Changing Environments), a large-scale whole-ecosystem warming and elevated CO₂ project located in a boreal peatland in northern Minnesota. Working with overstory and understory woody species, I investigated how warming affects cold hardiness dynamics, dormancy progression, and the risk of freeze damage in a warmer world.
 
 One of the interesting findings of this work is that warming does not simply reduce freeze risk. Depending on the species and the season, a warmer climate can actually increase vulnerability to cold damage by shifting the timing of dormancy and hardiness in ways that leave plants more exposed to late freezes. This work has broad implications for forest management and conservation in a changing climate.
+
+![Graphical abstract: effects of whole ecosystem warming on cold hardiness and damage risk of four boreal peatland species](/images/Graphical_abstract_080726_v3.jpg)
+
+*Whole ecosystem warming did not alter maximum midwinter cold hardiness of four boreal peatland species, but delayed fall acclimation and especially accelerated spring deacclimation. However, warming only increased cold damage risk in late winter and spring and for three of the four species, suggesting potential shifts in boreal forest composition.*
 
 **Publication**
 
