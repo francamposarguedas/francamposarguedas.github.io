@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-*Last updated: May 2026*
+*Last updated: November 2026*
 
 <iframe src="/files/CV_Francisco_Campos-Arguedas_26.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
