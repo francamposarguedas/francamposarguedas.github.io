@@ -117,9 +117,9 @@ The Posse Foundation, University of Wisconsin–Madison
 <em>Fall 2024–Spring 2026</em>
 <br>
 <br>
-Provide individual and group mentorship to Posse Scholars, supporting them 
-through academic and personal challenges. Connect students with campus resources 
-and collaborate with Posse staff and university liaisons to promote an inclusive 
+Provided individual and group mentorship to Posse Scholars, supporting them 
+through academic and personal challenges. Connected students with campus resources 
+and collaborated with Posse staff and university liaisons to promote an inclusive 
 and supportive learning environment.
 
 </td>
@@ -127,3 +127,11 @@ and supportive learning environment.
 <img src="/images/PosseLA22.JPEG" style="width: 180px; height: 200px; object-fit: cover; border-radius: 8px;">
 </td>
 </tr></table>
+
+---
+
+## Recognition
+
+<strong>CALS Graduate Mentoring Award</strong> (2026)
+<br>
+College of Agricultural and Life Sciences, University of Wisconsin–Madison
